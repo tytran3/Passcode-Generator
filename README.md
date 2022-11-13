@@ -1,1 +1,1 @@
-# simple password generator made with python core
+_simple password generator made with python core_
